@@ -5,7 +5,7 @@ import os
 # Initialize the Pyrogram client
 api_id = 11405252
 api_hash = "b1a1fc3dc52ccc91781f33522255a880"
-bot_token = "6302362321:AAHkHBIm4ou9oIsGLFEsMDWFLzK-yCqGDqE"
+bot_token = "6593397412:AAFmJ8Hj9jnZuvLs_rLcu63bQwCp0EV829w"
 
 app = Client("telegraph_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 
